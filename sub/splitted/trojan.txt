@@ -47,7 +47,6 @@ trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1181
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19232?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1182
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19233?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1183
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1184
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1185
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1186
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19225?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1188
@@ -455,6 +454,7 @@ trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36601?secu
 trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36206?security=tls#%F0%9F%8F%81RELAY-104.21.65.243-5408
 trojan://7166e17c-286a-4aca-8383-250506f47166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36116?security=tls#%F0%9F%8F%81RELAY-104.21.65.243-5417
 trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.233.221.214-5442
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1184
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5557
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5558
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-5559
